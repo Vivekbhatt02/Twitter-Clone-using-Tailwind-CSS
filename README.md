@@ -1,4 +1,4 @@
-### Twitter UI Clone 🐦  
+## Twitter UI Clone 🐦  
 A responsive and modern Twitter/X UI clone built with **HTML**, **CSS**, and **Tailwind CSS**. This project replicates the core design and layout of Twitter's user interface, including the sidebar, feed, and trending sections. It features a clean, dark-mode design with hover effects, sticky elements, and Material Icons for a polished look.
 
 #### Key Features:
